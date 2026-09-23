@@ -1,15 +1,15 @@
-Kassel Hand Project Work-Alike-Handle-2.0 Model README
+    Kassel Hand Project Work-Alike-Handle-2.0 Model README
 
-This model of the Kassel Hand is a sturdier version of the Lookalike model, like the 
-Work-Alike model, but also has a handle addition for people without limb loss or limb 
-difference on their right sides to interact with the model. This model is an updated 
-version of the original Work-Alike model that also has a wider set of support wings for 
-greater comfort and accessibility to wider audiences outside of those from our experimental 
-study. If you have questions about this repository's purpose or are unsure of how to start 
-the printing process, head back to this model's webpage and check out the section titled, 
-"New to Printing?" Happy printing!
+    This model of the Kassel Hand is a sturdier version of the Lookalike model, like the 
+    Work-Alike model, but also has a handle addition for people without limb loss or limb 
+    difference on their right sides to interact with the model. This model is an updated 
+    version of the original Work-Alike model that also has a wider set of support wings for 
+    greater comfort and accessibility to wider audiences outside of those from our experimental 
+    study. If you have questions about this repository's purpose or are unsure of how to start 
+    the printing process, head back to this model's webpage and check out the section titled, 
+    "New to Printing?" Happy printing!
 
- 1.) File Naming Convention--"L-##-[Name of Part]-#X"
+    1.) File Naming Convention--"L-##-[Name of Part]-#X"
  
          a.) First Section, L is a letter, either "M" for Mechanism or "S" for Shell.
              i.) Shell was printed out of gray and is a structural part.
@@ -20,7 +20,7 @@ the printing process, head back to this model's webpage and check out the sectio
          d.) #X is how many copies are needed.
 
 
-2.) Print Settings
+    2.) Print Settings
 
          a.) General Print Settings
              i.) An Anycubic Kobra 3 with the Anycubic Slicer
