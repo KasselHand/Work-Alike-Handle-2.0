@@ -49,7 +49,7 @@
                 fingers: M-07, M-08, M-09, and M-10.
           K.) M-13 and M-14, the axles, can be printed horizontally. The rod 
                 rests lengthwise along the plate.
-          L.) M-15 is an exception to direction viii--for best results, print with the 
+          L.) M-15 is an exception to direction J--for best results, print with the 
                 loop parallel to the plate.
           M.) M-16 should be printed with the loop flat on the plate as you would 
                 expect a ring to sit atop a table.
